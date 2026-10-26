@@ -1,11 +1,11 @@
 cask "hammertime" do
-  version "0.1.9"
-  sha256 "12c6ab9e6899f0fe0d134bbcfcf1002ee90fdf275dd9d83ddb5958d0eae133ae"
+  version "0.1.10"
+  sha256 "7287c46f34e94429ea32e15c9b3894fb8898fd171b972b0793e96656d4537438"
 
-  url "https://github.com/ethanyxchen/github-maxxer/releases/download/v#{version}/Hammertime-#{version}.zip"
+  url "https://github.com/ethanyxchen/Hammertime/releases/download/v#{version}/Hammertime-#{version}.zip"
   name "Hammertime"
   desc "Track the pull requests you merge against daily targets"
-  homepage "https://github.com/ethanyxchen/github-maxxer"
+  homepage "https://github.com/ethanyxchen/Hammertime"
 
   depends_on macos: :tahoe
 
