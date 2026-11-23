@@ -1,6 +1,6 @@
 cask "hammertime" do
-  version "1.2.0"
-  sha256 "ad8538d6b3c32ffb2d8acf5a897bedde85b0af30efe7156923586489c985d0c9"
+  version "1.2.1"
+  sha256 "4de9a0787c77fb23456f926914169fcc14b451d6b17b811f9956c9ab5fe72058"
 
   url "https://github.com/ethanyxchen/Hammertime/releases/download/v#{version}/Hammertime-#{version}.zip"
   name "Hammertime"
